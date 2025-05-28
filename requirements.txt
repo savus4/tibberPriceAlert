@@ -1,0 +1,4 @@
+requests
+python-dotenv
+pushover_complete
+tenacity
